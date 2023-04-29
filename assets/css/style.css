@@ -4,6 +4,11 @@
     padding: 0;
     margin: 0;
 }
+/* Body selector has background-color property to which it will add a shade of white to the background*/
+body {
+    background-color: #d9dcd6;
+}
+
 
 /*The header class has a padding property of 20px, a green shade for a background color, their text for a white shade a color
 and the font Trebuchet MS as it's primary font with 4 additional fonts to fallback on in case their primary font is unavailable */
@@ -44,10 +49,6 @@ and will set the left margin to 25px */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-/* Body selector has background-color property to which it will add a shade of white to the background*/
-body {
-    background-color: #d9dcd6;
 }
 
 /*All anchor elements will have a text color in a shade of white with no text-decoration*/
