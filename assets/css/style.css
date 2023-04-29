@@ -130,7 +130,8 @@ set to auto*/
     max-width: 150px;
 }
 
-
+/* This class has a margin bottom set to 20px, padding to 50px, a height of 300px, with a primary font of Gill Sans, background color to a shade of blue
+and text color to a shade of white */
 .main-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -139,10 +140,11 @@ set to auto*/
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This has img elments have a max height of 200px*/
 .main-section img {
     max-height: 200px;
 }
+/* This has h2 elements have margin bottom set to 20px and a font size of 36px*/
 .main-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
