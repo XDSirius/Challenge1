@@ -150,14 +150,16 @@ set to auto*/
     max-width: 150px;
 }
 
-
+/* The footer element has a padding of 30px, has a clear property set to both so that element 
+is moved down to clear past both left and right floats, a primary font of Trebuchet MS, and 
+the text set to be align in the center */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Has h2 elements in the footer with a font size of 20px */
 .footer h2 {
     font-size: 20px;
 }
