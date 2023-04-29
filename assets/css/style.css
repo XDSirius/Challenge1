@@ -96,6 +96,26 @@ no linebreaks will occur in the page as well and the left margin is set to 20px 
     display: inline-block;
     margin-left: 20px;
 }
+/* This class has a margin bottom set to 20px, padding to 50px, a height of 300px, with a primary font of Gill Sans, background color to a shade of blue
+and text color to a shade of white */
+.main-section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* This has img elments have a max height of 200px*/
+.main-section img {
+    max-height: 200px;
+}
+/* This has h2 elements have margin bottom set to 20px and a font size of 36px*/
+.main-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* The benefits class takes place in the aside section of the html page. This
 will ensure that part of the page will float to the right with right margin
 set to 20px, a padding of 20px, taking a 20% of the width and has a height of 100 perent.
@@ -130,25 +150,6 @@ set to auto*/
     max-width: 150px;
 }
 
-/* This class has a margin bottom set to 20px, padding to 50px, a height of 300px, with a primary font of Gill Sans, background color to a shade of blue
-and text color to a shade of white */
-.main-section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* This has img elments have a max height of 200px*/
-.main-section img {
-    max-height: 200px;
-}
-/* This has h2 elements have margin bottom set to 20px and a font size of 36px*/
-.main-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
