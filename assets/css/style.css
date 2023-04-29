@@ -56,10 +56,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/*All paragraph elements will have a font size of 16px*/
-p {
-    font-size: 16px;
-}
+
 /* The hero class adds a background image with multiple properties such as
 a height of 800px, a width of 100%, the bottom margin will be set to 25px, 
 the background size will be set to cover so it can cover the entire container
@@ -71,6 +68,11 @@ and will be centered.*/
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/*All paragraph elements will have a font size of 16px*/
+p {
+    font-size: 16px;
 }
 
 /* The float-left class will have elements in the class float to the left 
