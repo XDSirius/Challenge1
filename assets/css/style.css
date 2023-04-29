@@ -111,12 +111,13 @@ the element is moved down to clear past the poth left and right floats. */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* This allows elements in the class to have a bottom margin set to 32px 
+and a text color in a shade of white*/
+.benefits-sections {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -126,40 +127,41 @@ the element is moved down to clear past the poth left and right floats. */
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+*/
+.benefits-sections h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/*
+.benefits-sections h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefits-sections h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+*/
+.benefits-sections img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/*
+.benefits-sections img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img {
+.benefits-sections img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
