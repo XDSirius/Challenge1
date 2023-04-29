@@ -56,7 +56,10 @@ a {
 p {
     font-size: 16px;
 }
-/* The hero class*/
+/* The hero class adds a background image with multiple properties such as
+a height of 800px, a width of 100%, the bottom margin will be set to 25px, 
+the background size will be set to cover so it can cover the entire container
+and will be centered.*/
 .hero {
     height: 800px;
     width: 100%;
@@ -66,22 +69,32 @@ p {
     background-position: center;
 }
 
+/* The float-left class will have elements in the class float to the left 
+with a right margin set to 25px*/
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* The float-right class will have elements in the class float to the right 
+with a left margin set to 25px*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* The content class has a wdith set to 75 percent, a display of inline-block so
+no linebreaks will occur in the page as well and the left margin is set to 20px */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* The benefits class takes place in the aside section of the html page. This
+will ensure that part of the page will float to the right with right margin
+set to 20px, a padding of 20px, taking a 20% of the width and has a height of 100 perent.
+This section will have a background color shade of blue. The clear property of both will ensure
+the element is moved down to clear past the poth left and right floats. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
