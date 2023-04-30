@@ -15,6 +15,14 @@ To use this website, you may click on the navigation bar to go to specific secti
 
 ![Homepage](https://github.com/XDSirius/Challenge1/blob/main/website.jpg "Website Image")
 
+![Search Engine Optimization](https://github.com/XDSirius/Challenge1/blob/main/website-search.jpg "Search Engine Optimization")
+
+![Online Reputation Management](https://github.com/XDSirius/Challenge1/blob/main/website-online.jpg "Online Repuation Management")
+
+![Social Media Marketing](https://github.com/XDSirius/Challenge1/blob/main/website-online.jpg "Social Media Marketing")
+
+
+
 ## Credits
 UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG
 
