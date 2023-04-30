@@ -13,7 +13,7 @@ https://xdsirius.github.io/Challenge1/
 ## Usage
 To use this website, you may click on the navigation bar to go to specific section of the webpage.
 
-![XDSirius](/main/Challenge1/website.jpg?raw=true "Website Image")
+![Homepage](/Challenge1/main/to/website.jpg?raw=true "Website Image")
 
 ## Credits
 UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG
